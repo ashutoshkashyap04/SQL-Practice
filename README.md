@@ -29,7 +29,7 @@ SQL-Practice/
 
 ---
 
-### 🟡 Intermediate *(In Progress 🚧)*
+### 🟡 Intermediate
 
 * SQL Functions (CASE, String, Date)
 * Joins (INNER, LEFT, RIGHT, FULL)
@@ -37,7 +37,7 @@ SQL-Practice/
 
 ---
 
-### 🔴 Advanced *(In Progress 🚧)*
+### 🔴 Advanced
 
 * Common Table Expressions (CTEs)
 * Window Functions (ROW_NUMBER, RANK, etc.)
@@ -61,13 +61,14 @@ SQL-Practice/
 
 ---
 
-## 📈 Progress
+## 🚀 About This Repo
 
-* ✅ Beginner Level Completed
-* 🚧 Intermediate Level In Progress
-* 🚧 Advanced Level Pending
+This repository contains **130+ SQL practice questions** solved using a **Music Store database**.  
+It demonstrates my ability to work with real-world datasets and apply SQL concepts across multiple difficulty levels.
 
 ---
+
+⭐ If you find this helpful, feel free to star the repository!
 
 
 
